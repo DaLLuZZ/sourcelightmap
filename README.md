@@ -27,7 +27,7 @@ This project is open source. You are free to continue development on it!
 - Some improvements to the GUI
 - Exposure adjustment: You can brighten or darken the preview of the lightmap
 
-## Why can't I export a lightmap to an editable image file (i.e. PNG)?
+## Why can't I export a lightmap to an editable image file (e.g. PNG)?
 Pretty much every widespread image format uses three color channels with 256 possible color values per channel.
 Lightmap color values have a fourth value, the exponent, with which we can achieve more than these 256 values per color channel ([docs](https://developer.valvesoftware.com/wiki/Source_BSP_File_Format#Lighting)).
 This is a requirement for lightmap data, _especially for high dynamic range lighting_, because 256 values per channel simply aren't enough to differentiate between the darkest and brightest areas of a map.
