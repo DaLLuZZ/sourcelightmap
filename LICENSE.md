@@ -12,8 +12,8 @@ furnished to do so, subject to the following conditions:
 The above notice and this permission notice shall be included in all
 copies or substantial portions of the Software
 OR
-A link to https://github.com/Enderlux/sourcelightmap (this github repository)
-shall be included in all copies or substantial portions of the Software
+A link to https://github.com/Enderlux/sourcelightmap shall be included in all
+copies or substantial portions of the Software
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
